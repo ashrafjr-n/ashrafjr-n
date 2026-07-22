@@ -8,11 +8,7 @@ Building AI-powered products with modern web technologies.
 
 ## About Me
 
-I'm a Computer Science (AI) student passionate about building real products.
-
-My main interests are AI Engineering, Backend Systems, APIs, and Full Stack Development.
-
-I'm currently building projects that combine AI with production-ready web applications.
+I'm an AI-focused Software Engineer with a strong Full Stack background, passionate about designing backend systems, building intelligent applications, and transforming ideas into reliable, production-ready products.
 
 ---
 
