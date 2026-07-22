@@ -56,4 +56,4 @@ Git • Docker • Linux
 
 ## 📫 Contact
 
-[Portfolio](https://ashraf.me) • [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/)) • [Email](mailto:aannaelj@gmail.com)
+[Portfolio](https://ashraf.me) • [LinkedIn](https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/) • [Email](mailto:aannaelj@gmail.com)
