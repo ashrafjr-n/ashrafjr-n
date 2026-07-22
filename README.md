@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Ashraf 👋
 
-<!--
-**ashrafjr-n/ashrafjr-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Full Stack Developer**
 
-Here are some ideas to get you started:
+Building AI-powered products with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Computer Science (AI) student passionate about building real products.
+
+My main interests are AI Engineering, Backend Systems, APIs, and Full Stack Development.
+
+I'm currently building projects that combine AI with production-ready web applications.
+
+---
+
+## 🚀 Current Projects
+
+- [Rejox AI](https://github.com/ashrafjr-n/rejox.ai)
+- CSV Data Analysis Platform
+- PromptPilot
+- [Edenic World](https://github.com/ashrafjr-n/edenic-collectible-toys)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • TypeScript • JavaScript • PHP • Java
+
+**Frontend**
+React • Next.js
+
+**Backend**
+FastAPI • Flask • Laravel
+
+**Database**
+PostgreSQL • MySQL
+
+**Other**
+Git • Docker • Linux
+
+---
+
+## 📚 Currently Learning
+
+- AI Engineering
+- Backend Architecture
+- DevOps
+- Security
+
+---
+
+## 📊 GitHub Stats
+
+![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafjr-n&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafjr-n&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+[Portfolio](https://ashraf.me) • [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/) • [Email](aannaelj@gmail.com)
