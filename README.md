@@ -16,15 +16,6 @@ I'm currently building projects that combine AI with production-ready web applic
 
 ---
 
-## 🚀 Current Projects
-
-- [Rejox AI](https://github.com/ashrafjr-n/rejox.ai)
-- CSV Data Analysis Platform
-- PromptPilot
-- [Edenic World](https://github.com/ashrafjr-n/edenic-collectible-toys)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
