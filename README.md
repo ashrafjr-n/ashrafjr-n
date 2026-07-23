@@ -1,8 +1,20 @@
+<div align="center">
+
 # Hi, I'm Ashraf 👋
 
-**AI Engineer | Full Stack Developer**
+<h3>
+AI Engineer • Full Stack Developer
+</h3>
 
+<p>
 Building AI-powered products with modern web technologies.
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,laravel,postgres,mysql,docker,git,linux" />
+
+</div>
 
 ---
 
@@ -14,24 +26,59 @@ I'm an AI-focused Software Engineer with a strong Full Stack background, passion
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • TypeScript • JavaScript • PHP • Java
+<table>
+<tr>
+<td width="170"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java" />
+</td>
+</tr>
 
-**Frontend**
-React • Next.js
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</td>
+</tr>
 
-**Backend**
-FastAPI • Flask • Laravel
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,laravel" />
+</td>
+</tr>
 
-**Database**
-PostgreSQL • MySQL
+<tr>
+<td><strong>Database</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</td>
+</tr>
 
-**Other**
-Git • Docker • Linux
+<tr>
+<td><strong>Other</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</td>
+</tr>
+</table>
 
 ---
 
-
 ## 📫 Contact
 
-[Portfolio](https://ashraf.me) • [LinkedIn](https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/) • [Email](mailto:aannaelj@gmail.com)
+<p align="center">
+
+<a href="https://ashraf.me">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aannaelj@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
