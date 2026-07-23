@@ -31,15 +31,6 @@ Git • Docker • Linux
 
 ---
 
-## 📚 Currently Learning
-
-- AI Engineering
-- Backend Architecture
-- DevOps
-- Security
-
----
-
 
 ## 📫 Contact
 
