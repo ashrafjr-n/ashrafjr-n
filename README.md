@@ -8,7 +8,7 @@ Building AI-powered products with modern web technologies.
 
 ## About Me
 
-I'm an AI-focused Software Engineer with a strong Full Stack background, passionate about designing backend systems, building intelligent applications, and transforming ideas into reliable, production-ready products.
+I'm an AI-focused Software Engineer with a strong Full Stack background, passionate about building intelligent applications, designing scalable backend systems, and turning ideas into production-ready products.
 
 ---
 
