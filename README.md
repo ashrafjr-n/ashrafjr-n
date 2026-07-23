@@ -14,7 +14,7 @@ Building AI-powered products with modern web technologies.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,express,laravel,postgres,mysql,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,express,laravel,postgres,mysql,docker,git" />
 
 </div>
 
@@ -60,7 +60,7 @@ I'm an AI-focused Software Engineer with a strong Full Stack background, passion
 <tr>
 <td><strong>Other</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,docker" />
 </td>
 </tr>
 </table>
