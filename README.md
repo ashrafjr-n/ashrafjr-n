@@ -2,6 +2,8 @@
 
 # Hi, I'm Ashraf 👋
 
+<h2>Software Engineer</h2>
+
 <h3>
 AI Engineer • Full Stack Developer
 </h3>
@@ -12,7 +14,7 @@ Building AI-powered products with modern web technologies.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,laravel,postgres,mysql,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,express,laravel,postgres,mysql,docker,git,linux" />
 
 </div>
 
@@ -44,7 +46,7 @@ I'm an AI-focused Software Engineer with a strong Full Stack background, passion
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,laravel" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,express,laravel" />
 </td>
 </tr>
 
