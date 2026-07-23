@@ -2,8 +2,6 @@
 
 # Hi, I'm Ashraf 👋
 
-<h2>Software Engineer</h2>
-
 <h3>
 AI Engineer • Full Stack Developer
 </h3>
@@ -14,89 +12,70 @@ Building AI-powered products with modern web technologies.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,angular,fastapi,flask,express,laravel,postgres,mysql,docker,git,linux,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,react,nextjs,fastapi,flask,laravel,postgres,mysql,docker,git,linux" />
 
 </div>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## About Me
 
-<p align="center">
 I'm an AI-focused Software Engineer with a strong Full Stack background, passionate about building intelligent applications, designing scalable backend systems, and turning ideas into production-ready products.
-</p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<table align="center">
-
+<table>
 <tr>
-<td width="180"><strong>🤖 AI & Machine Learning</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-<br>
-NumPy • Pandas • Machine Learning
-</td>
-</tr>
-
-<tr>
-<td><strong>💻 Languages</strong></td>
+<td width="170"><strong>Languages</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java" />
 </td>
 </tr>
 
 <tr>
-<td><strong>🎨 Frontend</strong></td>
+<td><strong>Frontend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 </td>
 </tr>
 
 <tr>
-<td><strong>⚙️ Backend</strong></td>
+<td><strong>Backend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,express,laravel" />
-<br>
-REST API
+<img src="https://skillicons.dev/icons?i=fastapi,flask,laravel" />
 </td>
 </tr>
 
 <tr>
-<td><strong>🗄️ Database</strong></td>
+<td><strong>Database</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </td>
 </tr>
 
 <tr>
-<td><strong>🛠️ Tools</strong></td>
+<td><strong>Other</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,docker,linux" />
 </td>
 </tr>
-
 </table>
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+## 📫 Contact
 
 <p align="center">
 
 <a href="https://ashraf.me">
-<img src="https://img.shields.io/badge/❤️%20Portfolio-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
- 
 
 <a href="https://www.linkedin.com/in/ashraf-al-jarabeah-a94509408/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
- 
 
 <a href="mailto:aannaelj@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
