@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait_ascii.svg" alt="Ashraf" width="500"/>
+<img src="portrait_ascii.svg" alt="Ashraf" width="500"/>
 
 ### Software Engineer
 
