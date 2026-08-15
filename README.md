@@ -5,6 +5,7 @@
 <td align="center" valign="top">
 <div><img src="head_portrait.svg" width="340" alt=""/></div>
 <div><img src="portrait_ascii.svg" width="340" alt="Ashraf"/></div>
+<div><img src="stats_terminal.svg" width="340" alt="GitHub stats"/></div>
 </td>
 <td align="center" valign="top">
 <div><img src="identity_terminal.svg" width="440" alt="AI Engineer | Full Stack Developer | Building AI Products"/></div>
