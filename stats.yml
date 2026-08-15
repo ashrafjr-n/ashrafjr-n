@@ -33,8 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain stats_terminal.svg)" ]; then
-            git add stats_terminal.svg
+          if [ -n "$(git status --porcelain stats_terminal.svg monitor_terminal.svg)" ]; then
+            git add stats_terminal.svg monitor_terminal.svg
             git commit -m "chore: refresh stats [skip ci]"
             git push
           else
