@@ -38,9 +38,9 @@
   <path d="M412,80 L412,300" stroke="#161B22" stroke-width="1"/>
 
   <g clip-path="url(#plotClip)">
-    <path d="M28.0,300.0 L62.9,297.3 L97.8,285.6 L132.7,234.2 L167.6,245.9 L202.5,254.0 L237.5,241.4 L272.4,231.5 L307.3,197.3 L342.2,215.3 L377.1,90.0 L412.0,231.5 L412.0,300 L28.0,300 Z" fill="url(#areaGrad)"/>
+    <path d="M28.0,300.0 L62.9,297.3 L97.8,285.6 L132.7,234.2 L167.6,245.9 L202.5,254.0 L237.5,241.4 L272.4,231.5 L307.3,197.3 L342.2,215.3 L377.1,90.0 L412.0,218.9 L412.0,300 L28.0,300 Z" fill="url(#areaGrad)"/>
   </g>
-  <path d="M28.0,300.0 L62.9,297.3 L97.8,285.6 L132.7,234.2 L167.6,245.9 L202.5,254.0 L237.5,241.4 L272.4,231.5 L307.3,197.3 L342.2,215.3 L377.1,90.0 L412.0,231.5" fill="none" stroke="#8B8FFF" stroke-width="2.5"
+  <path d="M28.0,300.0 L62.9,297.3 L97.8,285.6 L132.7,234.2 L167.6,245.9 L202.5,254.0 L237.5,241.4 L272.4,231.5 L307.3,197.3 L342.2,215.3 L377.1,90.0 L412.0,218.9" fill="none" stroke="#8B8FFF" stroke-width="2.5"
         stroke-linecap="round" stroke-linejoin="round"
         stroke-dasharray="1400" stroke-dashoffset="1400">
     <animate attributeName="stroke-dashoffset" from="1400" to="0" dur="1s" begin="0.15s" fill="freeze"
@@ -57,7 +57,7 @@
   <circle cx="307.3" cy="197.3" r="3.5" fill="#0D1117" stroke="#8B8FFF" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/></circle>
   <circle cx="342.2" cy="215.3" r="3.5" fill="#0D1117" stroke="#8B8FFF" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.55s" fill="freeze"/></circle>
   <circle cx="377.1" cy="90.0" r="3.5" fill="#0D1117" stroke="#8B8FFF" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.60s" fill="freeze"/></circle>
-  <circle cx="412.0" cy="231.5" r="3.5" fill="#0D1117" stroke="#8B8FFF" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.65s" fill="freeze"/></circle>
+  <circle cx="412.0" cy="218.9" r="3.5" fill="#0D1117" stroke="#8B8FFF" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.65s" fill="freeze"/></circle>
 
   <path d="M24,330 L416,330" stroke="#21262D" stroke-width="1"/>
   <text x="24" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#484F58">contributions / month (last 12mo)</text>
@@ -71,9 +71,9 @@
   <rect x="193.8" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="450.0" dur="0.6s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="2.0" dur="0.6s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
   <rect x="227.0" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="450.0" dur="0.6s" begin="0.66s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="2.0" dur="0.6s" begin="0.66s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
   <rect x="260.2" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="450.0" dur="0.6s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="2.0" dur="0.6s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
-  <rect x="293.3" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="449.5" dur="0.6s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="2.5" dur="0.6s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
-  <rect x="326.5" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="424.7" dur="0.6s" begin="0.84s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="27.3" dur="0.6s" begin="0.84s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
-  <rect x="359.7" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="385.3" dur="0.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="66.7" dur="0.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
+  <rect x="293.3" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="449.6" dur="0.6s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="2.4" dur="0.6s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
+  <rect x="326.5" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="425.6" dur="0.6s" begin="0.84s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="26.4" dur="0.6s" begin="0.84s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
+  <rect x="359.7" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="387.4" dur="0.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="64.6" dur="0.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
   <rect x="392.8" y="452" width="19.2" height="0" rx="2" fill="url(#barGrad)"><animate attributeName="y" from="452" to="352.0" dur="0.6s" begin="0.96s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/><animate attributeName="height" from="0" to="100.0" dur="0.6s" begin="0.96s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/></rect>
     <text x="37.6" y="468" text-anchor="middle" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9">Sep</text>
   <text x="70.8" y="468" text-anchor="middle" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9">Oct</text>
