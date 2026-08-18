@@ -29,7 +29,7 @@
   </circle>
 
   <text x="170" y="129" text-anchor="middle" fill="#FFFFFF"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="bold" opacity="0">42
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="bold" opacity="0">45
     <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9s" fill="freeze"/>
   </text>
 
@@ -41,17 +41,17 @@
   <path d="M28,222 L312,222" stroke="#21262D" stroke-width="1"/>
 
   <text x="92" y="254" text-anchor="middle" fill="#FFFFFF"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="bold">662</text>
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="bold">873</text>
   <text x="92" y="271" text-anchor="middle" fill="#484F58"
         font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.8">CONTRIBUTIONS</text>
 
   <path d="M170,236 L170,276" stroke="#21262D" stroke-width="1"/>
 
   <text x="248" y="254" text-anchor="middle" fill="#FFFFFF"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="bold">42</text>
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="bold">45</text>
   <text x="248" y="271" text-anchor="middle" fill="#484F58"
         font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.8">LONGEST STREAK</text>
 
   <text x="326" y="291" text-anchor="end" fill="#30363D"
-        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5">updated Aug 15, 2026</text>
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5">updated Aug 18, 2026</text>
 </svg>
