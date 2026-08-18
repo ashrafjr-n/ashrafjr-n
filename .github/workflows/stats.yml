@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate stats SVG
+      - name: Generate SVGs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
@@ -33,8 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain stats_terminal.svg monitor_terminal.svg)" ]; then
-            git add stats_terminal.svg monitor_terminal.svg
+          if [ -n "$(git status --porcelain right_column.svg activity.svg)" ]; then
+            git add right_column.svg activity.svg
             git commit -m "chore: refresh stats [skip ci]"
             git push
           else
