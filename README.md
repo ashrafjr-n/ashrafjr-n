@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="portrait_ascii.svg" width="340" alt="Ashraf"/>&nbsp;<img src="right_column.svg" width="440" alt="AI Engineer | Full Stack Developer | Building AI Products"/>
+<img src="emblem.svg" width="340" alt="Ashraf"/>&nbsp;<img src="right_column.svg" width="440" alt="AI Engineer | Full Stack Developer | Building AI Products"/>
 
 <br/><br/>
 
