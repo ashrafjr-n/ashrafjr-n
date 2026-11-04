@@ -1,4 +1,4 @@
-"""portrait.svg: two braille artworks rendered as dots. Each scene dives into its pupil, a stream of\ndots pours out, and the next scene rises from far away (SMIL only, loops)."""
+"""portrait-v3.svg: two braille artworks rendered as dots. Each scene dives into its pupil, a stream of\ndots pours out, and the next scene rises from far away (SMIL only, loops)."""
 import sys
 W, H, T = 340, 480, 16.0
 BITS = [(0, 0, 0x01), (0, 1, 0x02), (0, 2, 0x04), (1, 0, 0x08), (1, 1, 0x10), (1, 2, 0x20), (0, 3, 0x40), (1, 3, 0x80)]
